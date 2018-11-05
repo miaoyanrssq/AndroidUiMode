@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryScarlet">#d12324</color>
+    <color name="colorPrimaryScarletDark">#520d0d</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#ffffff</color>
+
+    <color name="bg_color">#ffffff</color>
+
+    <color name="tc_484848">#484848</color>
+    <color name="tc_top_bar_title">#ffffff</color>
+
+    <color name="dc_dddddd">#dddddd</color>
+    <color name="divider_f0f0f0">#f0f0f0</color>
+
+    <color name="iv_adjustMaskColor">#3f0000ff</color>
+
+    <color name="color_fdc247">#fdc247</color>
+    <color name="color_border_color">#e4e4e4</color>
+
+</resources>
